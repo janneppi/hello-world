@@ -1,3 +1,1 @@
-# liirum-laarum
-
-Tähän tulee liirum-laarumia
+# hello-world
